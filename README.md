@@ -7,8 +7,7 @@
 ## Objectives
 
 The objective was to predict Sales based on a company's Marketing Investments in different media channels, such as YouTube, Facebook, and Newspapers.
-This is a straightforward approach to a simplified dataset and could be easily perceived as a Linear regression exercise. However, Marketing Mix Modeling has been my personal interest, and I would like to share it here.
-
+This is a straightforward approach to a simplified dataset and could be easily perceived as a Linear regression exercise.
 ## Data Source
 
 For this project, I used a Kaggle dataset found in the link below.
